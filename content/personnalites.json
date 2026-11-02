@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "id": "test-contribution-exemple",
+    "name": "Exemple de contribution",
+    "tag": "Contributeur·rice",
+    "meta": "2026 · Souss",
+    "bio": "Carte ajoutée via pull request pour démontrer le flux contribution → merge → publication.",
+    "works": "",
+    "cats": [
+      "lettres"
+    ],
+    "initials": "ⵜ",
+    "image": null
+  }
+]
