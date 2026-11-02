@@ -46,13 +46,13 @@
   var filterBar = document.getElementById("filterBar");
   if (filterBar) {
     var chips = filterBar.querySelectorAll(".chip");
-    var people = document.querySelectorAll("#people .person");
+    var people = function () { return document.querySelectorAll("#people .person"); };
     chips.forEach(function (chip) {
       chip.addEventListener("click", function () {
         chips.forEach(function (c) { c.classList.remove("active"); });
         chip.classList.add("active");
         var f = chip.getAttribute("data-filter");
-        people.forEach(function (p) {
+        people().forEach(function (p) {
           var cats = (p.getAttribute("data-cat") || "").split(/\s+/);
           var show = f === "all" || cats.indexOf(f) !== -1;
           p.classList.toggle("hidden", !show);
@@ -85,5 +85,40 @@
       status.className = "form-status ok";
       form.reset();
     });
+  }
+
+  // Community contributions from content/personnalites.json (merged PRs)
+  var peopleHost = document.getElementById("people");
+  if (peopleHost) {
+    fetch("content/personnalites.json")
+      .then(function (r) { return r.ok ? r.json() : []; })
+      .then(function (list) {
+        if (!Array.isArray(list) || !list.length) return;
+        list.forEach(function (p) {
+          var art = document.createElement("article");
+          art.className = "person reveal visible";
+          art.id = p.id || "";
+          art.setAttribute("data-cat", (p.cats || []).join(" "));
+          var photo = '<div class="person-photo' + (p.image ? " has-img" : "") + '">';
+          if (p.image && p.image.src) {
+            photo += '<img src="' + p.image.src + '" alt="' + (p.image.alt || p.name) + '" loading="lazy">';
+          }
+          photo += '<span class="person-initials">' + (p.initials || "") + "</span>";
+          if (p.image && p.image.credit) {
+            photo += '<span class="photo-credit">' + p.image.credit + "</span>";
+          }
+          photo += "</div>";
+          var works = p.works ? '<p class="person-works"><strong>Œuvres marquantes :</strong> ' + p.works + "</p>" : "";
+          art.innerHTML =
+            photo +
+            '<div class="person-body">' +
+            "<h3>" + p.name + ' <span class="person-tag">' + p.tag + ' · contribution</span></h3>' +
+            '<p class="person-meta">' + p.meta + "</p>" +
+            "<p>" + p.bio + "</p>" + works +
+            "</div>";
+          peopleHost.appendChild(art);
+        });
+      })
+      .catch(function () { /* no contributions file: fine */ });
   }
 })();
