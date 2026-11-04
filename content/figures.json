@@ -1,0 +1,550 @@
+[
+  {
+    "id": "soussi",
+    "name": "Mohamed Mokhtar Soussi",
+    "tag": "Savant & historien",
+    "meta": "1900 – 1963 · Dougadir Ilgh, Tafraout (Souss)",
+    "cats": ["lettres"],
+    "initials": "ⵎⵙ",
+    "image": {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXTU3yn6zdeD56YD-JmXOnbK1o5doyeZlcg2kzZzSh5A&s=10",
+      "alt": "Portrait de Mohamed Mokhtar Soussi",
+      "credit": "Portrait : source fournie",
+      "referrerpolicy": true
+    },
+    "teaser": "Ouléma, nationaliste et fin connaisseur du Souss, il enseigne la culture amazighe à Marrakech — deux exils sous le protectorat, mis à profit pour écrire son œuvre encyclopédique <em>Al Maâsoul</em>. Ministre des Habous à l'indépendance.",
+    "bio": [
+      "Mohamed Mokhtar Soussi naît en 1900 au village de Dougadir Ilgh (Aït Abdellah Ou Saïd), dans la région de Tafraout, au cœur du Souss. Fils du grand soufi El Hadj Ali Derkaoui, il fait ses études supérieures à Fès, Marrakech et Rabat.",
+      "Une fois le savoir acquis, il s'installe à Marrakech, où il ouvre une école et s'attelle à l'enseignement de la culture amazighe — ce qui lui vaut les foudres des autorités du protectorat, qui l'exilent à deux reprises. Il profite de ces exils pour écrire son œuvre encyclopédique <em>Al Maâsoul</em> (« Le mielleux »), en vingt volumes, puis ses mémoires d'exil, <em>El Ilghiat</em>.",
+      "Il collabore un temps avec celui que l'on surnommait le « capitaine chleuh », Léopold Justinard, à qui il fournit divers vieux manuscrits en rapport avec l'histoire du Souss. Admirable connaisseur de sa région natale, il lui consacre l'ouvrage de référence <em>Souss El Alima</em>, ainsi que des études sur les tribus Houara.",
+      "À l'indépendance, le roi Mohammed V le nomme ministre des Habous et des Affaires religieuses dans le gouvernement Bekkaï I (1955–1956). Il meurt dans un accident de la route à Rabat le 17 novembre 1963."
+    ],
+    "works": "Al Maâsoul (20 vol.) · El Ilghiat (3 vol.) · Erramliat (poèmes) · Souss El Alima · Min afwahi rijal · Khilal Jazoula (4 vol.) · Nahdat Jazoula · Bayna aljoumoud wa al maya",
+    "facts": [
+      ["Naissance", "1900, Dougadir Ilgh (Aït Abdellah Ou Saïd), région de Tafraout"],
+      ["Décès", "17 novembre 1963, Rabat (accident de la route)"],
+      ["Filiation", "Fils du soufi El Hadj Ali Derkaoui"],
+      ["Fonctions", "Ouléma, historien, ministre des Habous et des Affaires religieuses (1955–1956)"]
+    ],
+    "timeline": [
+      ["1900", "Naissance à Dougadir Ilgh, région de Tafraout"],
+      ["Années 1920–1940", "Études à Fès, Marrakech et Rabat ; ouverture d'une école à Marrakech"],
+      ["Protectorat", "Deux exils pour son enseignement de la culture amazighe ; rédaction d'<em>Al Maâsoul</em>"],
+      ["1955–1956", "Ministre des Habous et des Affaires religieuses (gouvernement Bekkaï I)"],
+      ["1963", "Mort dans un accident de la route à Rabat"]
+    ],
+    "sources": [
+      {"label": "Wikipédia (fr) — Mohamed Mokhtar Soussi", "url": "https://fr.wikipedia.org/wiki/Mohamed_Mokhtar_Soussi"}
+    ]
+  },
+  {
+    "id": "azaykou",
+    "name": "Ali Sidki Azaykou",
+    "tag": "Poète, historien & militant",
+    "meta": "1942 – 2004 · Igran n Tuinght, près de Taroudant",
+    "cats": ["lettres"],
+    "initials": "ⵄⵣ",
+    "image": {
+      "src": "assets/img/azayku.jpg",
+      "alt": "Portrait d'Ali Sidki Azaykou",
+      "credit": "Portrait : Wikimedia Commons (domaine public)"
+    },
+    "teaser": "« Azaykou » parce que ses parents appartiennent à la tribu des Izyouka. Poète, historien, philosophe et critique chleuh, l'un des militants de l'amazighité les plus éminents — premier intellectuel à interroger l'historiographie officielle.",
+    "bio": [
+      "Ali Sadki Azayku, dit Dda Ɛli, naît en 1942 au village d'Igran n Tuinght, dans le Haut-Atlas aux environs de Taroudant. « Azaykou » parce que ses parents appartiennent à la tribu des Izyouka, entre Agadir et Tiznit. Il commence ses études primaires près de son village natal, à Tafingoulte, les termine à Marrakech, puis entre à l'école nationale des maîtres.",
+      "Diplômé du baccalauréat, il enseigne deux ans au collège d'Imi-n-Tanoute (1962–1964). En 1968, il obtient concomitamment une licence d'histoire à l'université de Rabat et un diplôme de l'École normale supérieure. Il enseigne l'histoire à l'Institut du Grand Maghreb et participe, avec Ahmed Boukous et Brahim Akhiat, à un programme de soutien éducatif pour les étudiants berbérophones — rapidement interdit.",
+      "En 1967, il participe à la création de la première association amazighe au Maroc, l'AMREC. En 1970, il s'installe à Paris : École pratique des hautes études, cours d'amazigh de Lionel Galand à l'INALCO, thèse de doctorat sous la direction de Jacques Berque. Docteur de la Sorbonne, il rejoint l'université de Rabat en 1972 comme chercheur et professeur d'histoire du Maroc.",
+      "Dès 1972, dans le magazine <em>Tiydrin</em>, il défend l'importance de l'élément amazigh dans l'histoire du Maroc — premier intellectuel à remettre en cause l'historiographie officielle. Arrêté et condamné en 1982 pour « atteinte à la sûreté de l'État », il passe un an au pénitencier de Rabat. Libéré, il obtient en 1988 un DEA d'histoire avec mention très bien.",
+      "Avec Mohamed Chafik et Abdelhamid Zemmouri, il fonde en 1979 l'association amazighe ; en 1981, il fonde l'Organisation culturelle amazighe. Il publie ses poèmes en tachelhit — <em>Timitar</em> (« Les signes », 1988) et <em>Izmulen</em> (« Les cicatrices », 1995) — et des ouvrages sur l'identité amazighe dans l'histoire et la culture de l'Afrique du Nord. En 2003, il devient membre du conseil administratif de l'IRCAM. Il meurt le 10 septembre 2004 à Rabat, enterré dans son village natal d'Igran."
+    ],
+    "works": "Timitar (1988) · Izmulen (1995) · Relation de voyage du Marabout de Tasafet (1992) · Histoire du Maroc et ses possibles interprétations (2002) · Petit dictionnaire arabe/amazighe (1993) · L'islam et les Amazighes (2002)",
+    "facts": [
+      ["Naissance", "1942, Igran n Tuinght, Haut-Atlas, près de Taroudant"],
+      ["Décès", "10 septembre 2004, Rabat (longue maladie)"],
+      ["Formation", "Licence d'histoire (Rabat, 1968) · doctorat à la Sorbonne · DEA d'histoire, mention très bien (1988)"],
+      ["Engagement", "AMREC (1967) · association amazighe (1979) · Organisation culturelle amazighe (1981) · IRCAM (2003)"],
+      ["Prison", "1982–1983, pénitencier de Rabat (« atteinte à la sûreté de l'État »)"],
+      ["Hommages", "Festival Timitar (Souss-Massa-Draâ, 2004) · colloque de l'université d'été d'Agadir (2005) · ouvrage IRCAM (2005)"]
+    ],
+    "timeline": [
+      ["1942", "Naissance à Igran n Tuinght (près de Taroudant)"],
+      ["1967", "Participation à la création de l'AMREC, première association amazighe du Maroc"],
+      ["1970", "Installation à Paris (EPHE, INALCO) ; thèse sous la direction de Jacques Berque"],
+      ["1972", "Article fondateur sur l'élément amazigh dans l'histoire du Maroc ; retour à l'université de Rabat"],
+      ["1979", "Fondation de l'association amazighe avec Mohamed Chafik et Abdelhamid Zemmouri"],
+      ["1982", "Arrestation ; un an de prison à Rabat"],
+      ["1988", "DEA d'histoire, mention très bien ; recueil <em>Timitar</em>"],
+      ["2004", "Mort à Rabat ; le festival Timitar prend son nom"]
+    ],
+    "sources": [
+      {"label": "Wikipédia (fr) — Ali Azaykou", "url": "https://fr.wikipedia.org/wiki/Ali_Azaykou"},
+      {"label": "Wikimedia Commons (portrait)", "url": "https://commons.wikimedia.org/"}
+    ]
+  },
+  {
+    "id": "khaireddine",
+    "name": "Mohamed Khaireddine",
+    "tag": "Poète & romancier",
+    "meta": "1941 – 1995 · né à Tafraout (province de Tiznit), Souss",
+    "cats": ["lettres"],
+    "initials": "ⵅⴷ",
+    "image": {
+      "src": "https://www.babelio.com/users/AVT_Mohammed-Khair-Eddine_2887.jpeg",
+      "alt": "Portrait de Mohamed Khaireddine",
+      "credit": "Photo : Babelio",
+      "referrerpolicy": true
+    },
+    "teaser": "L'une des voix les plus brillantes de la poésie marocaine de langue française. Après le séisme de 1960, il publie <em>Agadir</em> (1967, prix Enfants terribles) ; exilé à Paris, il participe à mai 1968 avant de revenir à ses racines soussies.",
+    "bio": [
+      "Mohammed Khaïr-Eddine naît en 1941 à Tafraout (province de Tiznit), à 180 km au sud d'Agadir, originaire de la tribu amazighe des Aït Ammeln. Très marqué par le séisme de 1960, il s'installe à Agadir de 1961 à 1963, où la Sécurité sociale le charge d'enquêter auprès de la population sinistrée.",
+      "Jeune écrivain, il fréquente le cercle des Amitiés littéraires et artistiques de Casablanca. En 1964, il fonde avec Mostafa Nissaboury le mouvement « Poésie toute ». Il s'exile volontairement en France en 1965 et devient, pour subsister, ouvrier dans la banlieue parisienne. À partir de 1966, il publie dans la revue <em>Encres vives</em> et collabore aux <em>Lettres nouvelles</em> et à <em>Présence africaine</em>.",
+      "En 1967, c'est la révélation de son roman <em>Agadir</em>, salué par le prix Enfants terribles qu'avait fondé Jean Cocteau. Il participe au mouvement de mai 1968 et occupe le théâtre de l'Odéon ; Sartre publie l'un de ses poèmes dans <em>Les Temps modernes</em>. Ami d'André Malraux, de Senghor et de Lacan, il est l'un des grands écrivains de la littérature francophone marocaine, aux côtés de Ben Jelloun, Laâbi et Khatibi.",
+      "De retour au Maroc en 1979, il plonge dans ses racines soussies avec <em>Légende et vie d'Agoun'chich</em> (1984). Il meurt à Rabat le 18 novembre 1995, jour de la fête de l'Indépendance du Maroc."
+    ],
+    "works": "Nausée noire (1964) · Le Roi (1966) · Agadir (1967, prix Enfants terribles) · Corps négatif (1968) · Histoire d'un Bon Dieu (1968) · Soleil arachnéen (1969) · Moi l'aigre (1970) · Le Déterreur (1973) · Ce Maroc ! (1975) · Une odeur de mantèque (1976) · Légende et vie d'Agoun'chich (1984) · Le Temps des refus (entretiens 1966–1995)",
+    "facts": [
+      ["Naissance", "1941, Tafraout (province de Tiznit), tribu des Aït Ammeln"],
+      ["Décès", "18 novembre 1995, Rabat"],
+      ["Séisme", "1960, Agadir ; il enquête pour la Sécurité sociale (1961–1963)"],
+      ["Exil", "France, 1965–1979 ; ouvrier, puis écrivain (Seuil)"],
+      ["Prix", "Enfants terribles pour <em>Agadir</em> (1967)"]
+    ],
+    "timeline": [
+      ["1941", "Naissance à Tafraout (Aït Ammeln)"],
+      ["1960", "Séisme d'Agadir ; enquête pour la Sécurité sociale (1961–1963)"],
+      ["1964", "Fondation du mouvement « Poésie toute » avec Mostafa Nissaboury"],
+      ["1965", "Exil volontaire en France ; ouvrier en banlieue parisienne"],
+      ["1967", "<em>Agadir</em>, prix Enfants terribles (Jean Cocteau)"],
+      ["1968", "Mai 68, occupation du théâtre de l'Odéon ; <em>Corps négatif</em>"],
+      ["1979", "Retour au Maroc ; <em>Légende et vie d'Agoun'chich</em> (1984)"],
+      ["1995", "Mort à Rabat, jour de l'Indépendance"]
+    ],
+    "sources": [
+      {"label": "Wikipédia (fr) — Mohammed Khaïr-Eddine", "url": "https://fr.wikipedia.org/wiki/Mohammed_Kha%C3%AFr-Eddine"}
+    ]
+  },
+  {
+    "id": "adghirni",
+    "name": "Ahmed Adghirni",
+    "tag": "Écrivain, avocat & militant amazigh",
+    "meta": "5 mai 1947 – 19 octobre 2020 · Aït Ali (Aït Baâmrane), Souss",
+    "cats": ["lettres", "resistance"],
+    "initials": "ⴰⴷ",
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Adghirni12-01-2013_%28cropped%29.jpg/1280px-Adghirni12-01-2013_%28cropped%29.jpg",
+      "alt": "Portrait d'Ahmed Adghirni",
+      "credit": "Photo : Wikimedia Commons"
+    },
+    "teaser": "Avocat, écrivain, homme politique et militant des droits de l'homme amazigh chleuh, originaire du Souss. Figure de la défense de l'identité amazighe et cofondateur de deux revues amazighes, <em>Tamaziɣt</em> et <em>Amzday</em>.",
+    "bio": [
+      "Ahmed Adghirni naît le 5 mai 1947 à Aït Ali, dans la tribu des Aït Baâmrane (Souss). Avocat, écrivain, homme politique et militant des droits de l'homme amazigh chleuh, il consacre son œuvre et son action publique à la reconnaissance de la langue et de la culture berbères.",
+      "Militant politique amazigh de premier plan, il est très actif au Congrès mondial amazigh : il participe au « pré-congrès » de Saint-Rome-de-Dolan (1995) puis au premier congrès de Las Palmas de Grande Canarie (août 1997).",
+      "Également fondateur de deux revues amazighes, <em>Tamaziɣt</em> et <em>Amzday</em>, il figure parmi les figures les plus emblématiques du mouvement amazigh marocain. Il meurt à Tiznit le 19 octobre 2020, à l'âge de 73 ans."
+    ],
+    "works": "Fondateur des revues amazighes <em>Tamaziɣt</em> et <em>Amzday</em> · romans et écrits militants",
+    "facts": [
+      ["Naissance", "5 mai 1947, Aït Ali (Aït Baâmrane), Souss"],
+      ["Décès", "19 octobre 2020, Tiznit (73 ans)"],
+      ["Métiers", "Avocat, écrivain, homme politique"],
+      ["Engagement", "Congrès mondial amazigh (Saint-Rome-de-Dolan 1995, Las Palmas 1997)"]
+    ],
+    "timeline": [
+      ["1947", "Naissance à Aït Ali (Aït Baâmrane), Souss"],
+      ["1995", "Participation au « pré-congrès » de Saint-Rome-de-Dolan (Congrès mondial amazigh)"],
+      ["1997", "Premier congrès du Congrès mondial amazigh, Las Palmas de Grande Canarie"],
+      ["2020", "Mort à Tiznit (19 octobre)"]
+    ],
+    "sources": [
+      {"label": "Wikipédia (fr) — Ahmed Adghirni", "url": "https://fr.wikipedia.org/wiki/Ahmed_Adghirni"},
+      {"label": "Morocco World News — nécrologie", "url": "https://www.moroccoworldnews.com/2020/10/65182/amazigh-movement-loses-emblematic-activist-and-lawyer-ahmed-adghirni/"}
+    ]
+  },
+  {
+    "id": "belaid",
+    "name": "Lhaj Belaïd",
+    "tag": "Poète-chanteur (raïss)",
+    "meta": "c. 1873 – c. 1945 · Anou n Addou (Ida Oubaaqil), région de Tiznit",
+    "cats": ["musique"],
+    "initials": "ⵍⴱ",
+    "image": {
+      "src": "assets/img/lhaj-belaid.jpg",
+      "alt": "Portrait de Lhaj Belaïd",
+      "credit": "Portrait : Wikimedia Commons (licence Art libre)"
+    },
+    "teaser": "Poète marocain d'expression amazighe chleuh, originaire d'un village de la région de Tiznit. En 1937, il devient le premier raïss (poète-chanteur chleuh) à enregistrer un disque, chez Pathé Marconi à Paris.",
+    "bio": [
+      "Lhaj Belaïd (en chleuh : ⵍⵃⴰⵊ ⴱⵍⵄⵉድ) naît vers 1873 à Anou n Addou, dans la tribu des Ida Oubaaqil, région de Tiznit. Poète marocain d'expression amazighe chleuh, il reste aujourd'hui connu et respecté dans toute la communauté chleuhe.",
+      "Tôt orphelin, il doit exercer plusieurs métiers pour subvenir à ses besoins et à ceux de sa famille. Il s'installe au Tazeroualt, où il s'initie à la poésie et à la musique amazighes, et acquiert un grand prestige avec sa troupe de troubadours chez les Imazighen, les Aït Souss en particulier.",
+      "Il fut le premier raïss (poète-chanteur chleuh) à enregistrer un disque, chez Pathé Marconi à Paris, en 1937. Un portrait photographique de lui — publié sous licence Art libre par Dalinanir sur Wikimedia Commons — témoigne de sa figure tutélaire de la chanson chleuhe."
+    ],
+    "works": "Répertoire oral raïss transmis par sa troupe de troubadours · premier disque chleuh enregistré chez Pathé Marconi (Paris, 1937)",
+    "facts": [
+      ["Naissance", "vers 1873, Anou n Addou (Ida Oubaaqil), région de Tiznit"],
+      ["Décès", "vers 1945"],
+      ["Formation", "Tazeroualt ; poésie et musique amazighes"],
+      ["Premier disque", "1937, Pathé Marconi, Paris — premier raïss à enregistrer"]
+    ],
+    "timeline": [
+      ["c. 1873", "Naissance à Anou n Addou (Ida Oubaaqil), région de Tiznit"],
+      ["Jeunesse", "Orphelin ; plusieurs métiers ; installation au Tazeroualt"],
+      ["c. 1900–1930", "Prestige avec sa troupe de troubadours chez les Imazighen et les Aït Souss"],
+      ["1937", "Premier disque de raïss enregistré chez Pathé Marconi, Paris"],
+      ["c. 1945", "Mort ; sa figure demeure respectée dans la communauté chleuhe"]
+    ],
+    "sources": [
+      {"label": "Wikipédia (fr) — Lhadj Belaïd", "url": "https://fr.wikipedia.org/wiki/Lhadj_Bela%C3%AFd"},
+      {"label": "Wikimedia Commons — Hadj bel3id.jpg (FAL)", "url": "https://commons.wikimedia.org/wiki/File:Hadj_bel3id.jpg"}
+    ]
+  },
+  {
+    "id": "ammouri",
+    "name": "Ammouri M'barek",
+    "tag": "Chanteur & rénovateur de la musique amazighe",
+    "meta": "1951 – 2015 · Irguiten, près de Taroudant",
+    "cats": ["musique"],
+    "initials": "ⵄⵎ",
+    "image": {
+      "src": "assets/img/ammouri-mbarek.jpg",
+      "alt": "Portrait d'Ammouri M'barek",
+      "credit": "Portrait : Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    "teaser": "Considéré comme le rénovateur de la musique amazighe marocaine, né dans le petit village d'Irguiten, au pied du Haut-Atlas. Il allie tradition et modernité et interprète les grands poètes amazighs contemporains — Azayko, El-Moustaoui, Akhiyyat.",
+    "bio": [
+      "Ammouri Mbark (en tachelhit : ⵄⵎⵎⵓⵔⵉ ⵎⴱⴰⵕⴽ) naît en 1951 à Irguiten, au pied du Haut-Atlas, près de Taroudant (Souss), et meurt le 14 février 2015 à Casablanca. Compositeur, chanteur et musicien marocain chleuh, il est considéré comme un innovateur de la musique berbère.",
+      "Après une enfance au sein de l'orphelinat de Taroudant dirigé par les sœurs franciscaines, il prend part aux chorales de l'institution et acquiert ses techniques de chant. Il fait partie du groupe Ousman (« Éclairs »), qui obtient un vif succès dans des salles prestigieuses : l'Olympia de Paris, le Palais des Beaux-Arts de Bruxelles et le Palais d'Hiver à Lyon. Le groupe se dissout en 1978.",
+      "En solo, il enregistre <em>Tazwit nera nek dim a nmun</em> (« Abeille, je veux être ton compagnon de route »). Il innove dans la musique berbère en alliant tradition et modernité et interprète le répertoire des poètes amazighs contemporains qu'il affectionne — Azayko, Mohamed El-Moustaoui, Akhiyyat… — dont les thèmes lyriques renforcent l'identité amazighe et évoquent l'amour, l'errance et l'exil.",
+      "En 1985, il obtient le 3e prix du Premier Festival de la chanson marocaine, à Mohammedia, avec la chanson « Gennevilliers » (paroles d'Ali Azayko, orchestration d'Abdeslam Khachan, ancien chef d'orchestre royal de 1973 à 1999)."
+    ],
+    "works": "Tazwit nera nek dim a nmun (« Abeille, je veux être ton compagnon de route ») · « Gennevilliers » (paroles d'Ali Azayko, 1985) · répertoire du groupe Ousman",
+    "facts": [
+      ["Naissance", "1951, Irguiten, près de Taroudant (Souss)"],
+      ["Décès", "14 février 2015, Casablanca"],
+      ["Groupe", "Ousman (« Éclairs ») — Olympia de Paris, Palais des Beaux-Arts de Bruxelles, Palais d'Hiver de Lyon"],
+      ["Distinction", "3e prix du Premier Festival de la chanson marocaine (Mohammedia, 1985)"]
+    ],
+    "timeline": [
+      ["1951", "Naissance à Irguiten (près de Taroudant)"],
+      ["Années 1960–1970", "Orphelinat de Taroudant (chorales des sœurs franciscaines) ; groupe Ousman"],
+      ["1978", "Dissolution du groupe Ousman ; carrière solo"],
+      ["1985", "3e prix du Premier Festival de la chanson marocaine (Mohammedia), « Gennevilliers »"],
+      ["2015", "Mort à Casablanca (14 février)"]
+    ],
+    "sources": [
+      {"label": "Wikipédia (fr) — Ammouri Mbark", "url": "https://fr.wikipedia.org/wiki/Ammouri_Mbark"},
+      {"label": "Wikimedia Commons — Ammouri M'bark.jpg (CC BY-SA 4.0, Chanakarim)", "url": "https://commons.wikimedia.org/wiki/File:Ammouri_M%27bark.jpg"}
+    ]
+  },
+  {
+    "id": "chouhad",
+    "name": "Ali Chouhad",
+    "tag": "Compositeur, poète & chanteur chleuh",
+    "meta": "né en 1965 · Issafen, au pied de l'Anti-Atlas (Souss)",
+    "cats": ["musique"],
+    "initials": "ⵛ",
+    "image": {
+      "src": "assets/img/ali-chouhad.jpg",
+      "alt": "Portrait d'Ali Chouhad",
+      "credit": "Portrait : source fournie"
+    },
+    "teaser": "Compositeur, poète et chanteur marocain chleuh, né à Issafen Iberkak, dans l'Anti-Atlas entre Taroudant et Tata. Fondateur des groupes Izmaz (1976) puis Archach (1979), considéré comme un innovateur de la musique berbère.",
+    "bio": [
+      "Ali Chouhad naît en 1965 à Issafen Iberkak, dans la région d'Issafen, au pied de l'Anti-Atlas entre Taroudant et Tata (Souss). Compositeur, poète et chanteur marocain chleuh, il grandit dans une famille de poètes et se donne à la satire poétique dès son adolescence.",
+      "En 1976, il crée le groupe musical Izmaz, puis le groupe Archach en 1979 avec les jeunes de sa région ; il poursuit ensuite une carrière solo sous le nom d'Archach Ali Chouhad. Considéré comme un innovateur dans la musique berbère, il s'inspire du répertoire des poètes berbères classiques et écrit la plupart des poèmes de ses chansons, pour le groupe Archach comme en solo.",
+      "Le style « Archach » (« pluie fine ») qui le caractérise se distingue par sa douceur et sa profondeur philosophique ; ses chansons, dont le célèbre poème <em>Amarg</em> (« Ô poésie ! »), ont marqué des générations. En 2019, il participe avec les artistes de l'orchestre philharmonique amazigh à plusieurs festivals au Maroc."
+    ],
+    "works": "Poèmes et chansons du groupe Archach et en solo · style « Archach » (pluie fine) · poème <em>Amarg</em> (« Ô poésie ! »)",
+    "facts": [
+      ["Naissance", "1965, Issafen Iberkak (Anti-Atlas, entre Taroudant et Tata)"],
+      ["Groupes", "Izmaz (1976) · Archach (1979) · carrière solo « Archach Ali Chouhad »"],
+      ["Style", "« Archach » (pluie fine) — douceur et profondeur philosophique"],
+      ["2019", "Festivals avec l'orchestre philharmonique amazigh"]
+    ],
+    "timeline": [
+      ["1965", "Naissance à Issafen Iberkak (Anti-Atlas)"],
+      ["Adolescence", "Satire poétique dans une famille de poètes"],
+      ["1976", "Création du groupe musical Izmaz"],
+      ["1979", "Création du groupe Archach"],
+      ["Depuis", "Carrière solo sous le nom d'Archach Ali Chouhad ; innovation dans la musique berbère"],
+      ["2019", "Festivals avec l'orchestre philharmonique amazigh"]
+    ],
+    "sources": [
+      {"label": "Wikipédia (fr) — Ali Chouhad", "url": "https://fr.wikipedia.org/wiki/Ali_Chouhad"},
+      {"label": "Al Bayane — hommage au fondateur du groupe Archach", "url": "https://albayane.press.ma/hommage-au-fondateur-et-leader-du-groupe-archach-moulay-ali-chouhad.html"}
+    ]
+  },
+  {
+    "id": "ibnyassin",
+    "name": "Abdallah Ibn Yassin",
+    "tag": "Fondateur des Almoravides",
+    "meta": "mort le 7 juillet 1059 · originaire du Souss (tribu Guezoula, Tamanart)",
+    "cats": ["spirituel"],
+    "initials": "عبد الله بن ياسين",
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Anti-Atlas_oasis_village.jpg/1280px-Anti-Atlas_oasis_village.jpg",
+      "alt": "Village oasis de l'Anti-Atlas, terre des Guezoula",
+      "credit": "Village de l'Anti-Atlas"
+    },
+    "teaser": "Théologien malékite originaire du Souss (tribu sanhaja des Guezoula), disciple de Waggag ibn Zallu. Il fonde un ribat à Aglu près de Tiznit, puis lance le mouvement almoravide, qui s'étendra sur le Grand Sahara, le Maghreb et l'Ibérie.",
+    "bio": [
+      "ʿAbd Allāh ibn Yāsīn naît à Tamanart (fr), dans le Souss, de la tribu des Jazula (Guezoula), sous-tribu sanhaja ; sa mère, Tin Izamarren, est elle-même de Tamanart. Théologien de l'école malékite, il est le disciple de Waggag ibn Zallu al-Lamti, son parent, et étudie dans son ribat « Dar al-Murabitin », au village d'Aglu, près de l'actuelle Tiznit.",
+      "En 1046, le chef Gudala Yahya ibn Ibrahim vient au ribat chercher un maître pour islamiser les Berbères de l'Adrar (actuelle Mauritanie) ; Waggag lui envoie Abdallah ibn Yassin, qui prêche un sunnisme orthodoxe aux Sanhaja encore superficiellement islamisés. Après une révolte des Gudala, il se retire avec ses fidèles aux îles de Tidra, où il fonde un nouveau ribat.",
+      "En alliance avec Yahya ibn Umar, chef des Lamtuna, il constitue l'alliance almoravide (Lamtuna, Masufa, Gudala) — lui-même chef spirituel, Yahya ibn Umar commandant militaire. En 1054, Sijilmasa est conquise ; il y impose une règle orthodoxe : vin et musique interdits, taxes non islamiques abolies, un cinquième du butin réservé aux religieux. Cette rigueur provoque une révolte en 1055.",
+      "Après la mort de Yahya ibn Umar (1056) dans une nouvelle révolte des Gudala, il nomme commandant militaire le frère de celui-ci, Abu Bakr ibn Umar (1056–1087), qui détruit Sijilmasa puis conquiert le Sūs et Aghmat (près de Marrakech) en 1058. Abdallah ibn Yassin meurt en 1059, en tentant de soumettre les Barghawata de la côte atlantique. Son tombeau se trouve au sud de Rabat, près d'Aïn El Aouda, marqué sur les cartes Michelin comme le marabout de Sidi Abdallah."
+    ],
+    "works": "Fondateur du ribat de Dar al-Murabitin (Aglu, près de Tiznit) puis du ribat de Tidra · doctrine malékite orthodoxe des Almoravides",
+    "facts": [
+      ["Naissance", "Tamanart, Souss (tribu des Jazula / Guezoula, sanhaja)"],
+      ["Décès", "7 juillet 1059, près d'Aïn El Aouda (actuel Maroc)"],
+      ["Maître", "Waggag ibn Zallu al-Lamti, ribat d'Aglu, près de Tiznit"],
+      ["Alliance", "Almoravides : Lamtuna, Masufa, Gudala (commandement militaire : Yahya ibn Umar)"],
+      ["Tombeau", "Marabout de Sidi Abdallah, près d'Aïn El Aouda, au sud de Rabat"]
+    ],
+    "timeline": [
+      ["1046", "Le Gudala Yahya ibn Ibrahim le sollicite ; il part prêcher chez les Sanhaja de l'Adrar"],
+      ["1046+", "Fondation du ribat aux îles de Tidra (Mauritanie)"],
+      ["1054", "Conquête de Sijilmasa ; règles orthodoxes (interdiction du vin et de la musique)"],
+      ["1055", "Révolte contre sa rigueur"],
+      ["1056", "Mort de Yahya ibn Umar ; Abu Bakr ibn Umar devient chef militaire"],
+      ["1058", "Conquête du Sūs et d'Aghmat (près de Marrakech)"],
+      ["1059", "Mort en combattant les Barghawata ; tombeau près d'Aïn El Aouda"]
+    ],
+    "sources": [
+      {"label": "Wikipédia (en) — Abdallah ibn Yassin", "url": "https://en.wikipedia.org/wiki/Abdallah_ibn_Yassin"}
+    ]
+  },
+  {
+    "id": "ibtumert",
+    "name": "Ibn Tumert",
+    "tag": "Fondateur des Almohades",
+    "meta": "c. 1080 – août 1130 · Igiliz, vallée du Souss (Anti-Atlas, tribu Hargha)",
+    "cats": ["spirituel"],
+    "initials": "ⵉⴱⵏ ⵜⵓⵎⵔⵜ",
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Damadjes_mosk%C3%AAye_Tinmel_deus_nouv%C3%A8s_poites.jpg/1280px-Damadjes_mosk%C3%AAye_Tinmel_deus_nouv%C3%A8s_poites.jpg",
+      "alt": "Mosquée de Tinmel, fondée par Ibn Tumert",
+      "credit": "Mosquée de Tinmel"
+    },
+    "teaser": "Né vers 1080 à Igiliz, dans la vallée du Souss (tribu Hargha, Masmuda), il fonde à Tinmel (Haut-Atlas) en 1122 le mouvement almohade — premier à prêcher en berbère — et réunit les tribus du Souss pour renverser les Almoravides avant de lancer la conquête du Maghreb et de l'Al-Andalus.",
+    "bio": [
+      "Abū ʿAbd Allāh Muḥammad ibn Tūmart naît entre 1078 et 1082 dans le petit village d'Igiliz (emplacement précis incertain), dans la vallée du Souss. Membre de la tribu Hargha, berbère de l'Anti-Atlas appartenant à la confédération des Masmuda, il est fils d'un allumeur de mosquée ; d'une piété remarquée dès l'enfance, il reçoit le surnom amazigh d'Asafu (« lumière ») pour sa coutume d'allumer les cierges des mosquées.",
+      "Vers 1106, il se rend à Cordoue, grand centre d'études du domaine almoravide, où il est le disciple d'al-Turtushi. Il poursuit son éducation vers l'Orient, où il subit l'influence des idées d'al-Ghazali ; c'est probablement à Bagdad qu'il élabore son système, mêlant théologie ash'arite, doctrines ẓāhirites et mystique soufie. Son principe fondateur : un unitarisme rigide (tawhid), qui nie l'existence des attributs de Dieu comme incompatibles avec son unité.",
+      "De retour au Maghreb en 1117-1118 par Mahdia, Tunis et Béjaïa, il prêche un islam puritain dans tout le pays, en berbère vernaculaire, et se fait expulser de ville en ville. Vers 1119, il s'établit à Mellala, près de Béjaïa, où il rassemble ses premiers compagnons — al-Bashir, son futur stratège, Abd al-Mu'min, son successeur, et al-Baydhaq, chroniqueur des Almohades. En 1120, il gagne le Maroc, dispute les malékites de Fès, puis affronte l'émir almoravide Ali ibn Yusuf à Marrakech — il est fouetté de quatorze coups et expulsé de la ville.",
+      "De retour à Igiliz fin 1120, il se retire dans une grotte proche — écho conscient de la grotte de Hira — et prêche dans la vallée du Souss. À la fin du Ramadan 1121, il se proclame le Mahdi. En 1122, il rejoint le Haut-Atlas et fonde le ribat de Tinmel (vallée du Nfis), centre spirituel et militaire de la rébellion almohade ; six tribus masmuda y adhèrent (Hargha, Ganfisa, Gadmiwa, Hintata, Haskura, Hazraja). Pendant huit ans, la guérilla almohade isole la vallée du Souss et menace les cols du Haut-Atlas.",
+      "Au début de 1130, les Almohades descendent dans la plaine : après avoir mis en déroute les troupes d'Aghmat, ils assiègent Marrakech, mais sont écrasés à la bataille d'al-Buhayra (mai 1130) — 12 000 hommes de la seule tribu Hargha y laissent la vie. Ibn Tumert meurt en août 1130, quelques mois après cette défaite. Son œuvre lui survit : son successeur Abd al-Mu'min, élu en 1133, conquiert Marrakech en 1147 et fonde l'empire almohade."
+    ],
+    "works": "Monographies doctrinales réunies sous le titre <em>Livre d'Ibn Toumert</em> (traduit en français en 1903) · organisation almohade (conseil des Dix, conseil des Cinquante, quatorze grades)",
+    "facts": [
+      ["Naissance", "c. 1080, Igiliz, vallée du Souss (tribu Hargha, Masmuda)"],
+      ["Décès", "Août 1130, quelques mois après la bataille d'al-Buhayra"],
+      ["Formation", "Cordoue (al-Turtushi) · Bagdad (influence d'al-Ghazali) · retour en 1117-1118"],
+      ["Proclamation", "Fin du Ramadan 1121 : il se révèle Mahdi, à Igiliz"],
+      ["Fondation", "1122 : ribat de Tinmel (Haut-Atlas) — six tribus masmuda"],
+      ["Successeur", "Abd al-Mu'min (élu 1133 ; Marrakech prise en 1147)"]
+    ],
+    "timeline": [
+      ["c. 1080", "Naissance à Igiliz (vallée du Souss)"],
+      ["c. 1106", "Études à Cordoue (al-Turtushi) ; puis Bagdad et al-Ghazali"],
+      ["1117-1118", "Retour au Maghreb (Mahdia, Tunis, Béjaïa) ; prédication puritaine en berbère"],
+      ["1120", "Fès, puis Marrakech : fouetté et expulsé ; retraite dans la grotte d'Igiliz"],
+      ["Fin 1121", "Proclamation comme Mahdi"],
+      ["1122", "Fondation du ribat de Tinmel ; ralliement des six tribus masmuda"],
+      ["1129-1130", "Purge d'al-Bashir (tamyiz) ; bataille d'al-Buhayra (défaite)"],
+      ["Août 1130", "Mort d'Ibn Tumert"]
+    ],
+    "sources": [
+      {"label": "Wikipédia (en) — Ibn Tumert", "url": "https://en.wikipedia.org/wiki/Ibn_Tumert"}
+    ]
+  },
+  {
+    "id": "jachtimi",
+    "name": "El-Hajj Ahmed el-Jachtimi",
+    "tag": "Ouléma, poète & maître soufi",
+    "meta": "1816 – 1909 · Imi Ougchtim (Tafraout) – Tiout, près de Taroudant",
+    "cats": ["spirituel", "lettres"],
+    "initials": "ⵍⵃⵊ",
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tiout%2C_Morocco_-_The_Kasbah.jpg/1280px-Tiout%2C_Morocco_-_The_Kasbah.jpg",
+      "alt": "Kasbah de Tiout, où se trouve le mausolée d'el-Jachtimi",
+      "credit": "Kasbah de Tiout"
+    },
+    "teaser": "Ouléma, poète et maître soufi de la tribu des Aït Jachtim, né à Imi Ougchtim (région de Tafraout). Il écrit des poèmes didactiques en tamazight et en arabe et est remarqué par le sultan Hassan Ier, qui le nomme professeur à la Grande mosquée de Marrakech.",
+    "bio": [
+      "Ahmed ibn Abderrahmane ibn Abdellah el-Tamli el-Jazouli el-Tafraouti el-Jachtimi (en tamazight : ⵍⵃⴰⵊ ⵃⵎⴰⴷ ⵏ ⵉⵎⵉ ⵏ ⵓⴳⵛⵜⵉⵎ), dit el-Hajj Ahmed el-Jachtimi et Abou-el-Abbas, naît en 1816 (1231 A. H.) à Imi Ougchtim et meurt en 1909 (1327 A. H.) à Tiout. Ouléma, poète et maître soufi marocain, il appartient à la tribu des Aït Jachtim, associée à la tradition savante du Souss.",
+      "Il étudie auprès de son père, Abderrahmane ibn Abdellah el-Jachtimi, et de son frère, Abdellah ibn Abderrahmane. Il effectue le pèlerinage à La Mecque, recevant le surnom honorifique « el-Hajj ». Il réside ensuite à Tiout, près de Taroudant, où il enseigne la religion. À la mort de son frère (1854-1855), il reprend la direction des enseignements de la madrasa Jachtimiyya, établissement portant le nom de sa famille.",
+      "Il écrit des poèmes didactiques, en tamazight comme en arabe, et enseigne le soufisme. Il s'engage pour lutter contre la corruption dans le Souss, maintenir l'unité entre les confréries et condamner les innovations religieuses blâmables, durant une période de grands bouleversements au Maroc. Le sultan Hassan Ier le nomme professeur à la Grande mosquée de Marrakech ; il exerce aussi la fonction d'imam lors du passage du sultan dans le Souss. Il meurt en 1909, retiré dans la piété ; son mausolée se trouve dans la kasbah de Tiout."
+    ],
+    "works": "Poèmes didactiques en tamazight et en arabe · direction de la madrasa Jachtimiyya (Tiout)",
+    "facts": [
+      ["Naissance", "1816 (1231 A. H.), Imi Ougchtim (région de Tafraout), tribu des Aït Jachtim"],
+      ["Décès", "1909 (1327 A. H.), Tiout, près de Taroudant"],
+      ["Nisbas", "el-Tamli (Ammelne) · el-Jazouli (Guezoula) · el-Tafraouti (Tafraout) · el-Jachtimi (Imi Ougchtim)"],
+      ["Fonctions", "Professeur à la Grande mosquée de Marrakech (nommé par Hassan Ier) · imam du sultan dans le Souss"],
+      ["Mausolée", "Kasbah de Tiout"]
+    ],
+    "timeline": [
+      ["1816", "Naissance à Imi Ougchtim (1231 A. H.)"],
+      ["Jeunesse", "Études auprès de son père et de son frère Abdellah ; pèlerinage à La Mecque"],
+      ["1854-1855", "Reprise de la direction de la madrasa Jachtimiyya (Tiout)"],
+      ["XIXe s.", "Enseignement, soufisme, lutte contre la corruption ; nommé par Hassan Ier à Marrakech"],
+      ["1909", "Mort à Tiout (1327 A. H.) ; mausolée dans la kasbah"]
+    ],
+    "sources": [
+      {"label": "Wikipédia (fr) — el-Hajj Ahmed el-Jachtimi", "url": "https://fr.wikipedia.org/wiki/el-Hajj_Ahmed_el-Jachtimi"}
+    ]
+  },
+  {
+    "id": "kachti",
+    "name": "Ahmed al-Kachti al-Tinani",
+    "tag": "Ouléma & maître soufi tijani",
+    "meta": "1310 – 1374 H. (c. 1892 – 1956) · douar Kacht, tribu Ida Ou Tanan, près d'Agadir",
+    "cats": ["spirituel", "lettres"],
+    "initials": "أ ك",
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Valley_of_Ammeln.jpg/1280px-Valley_of_Ammeln.jpg",
+      "alt": "Vallée d'Ammeln, Anti-Atlas, près d'Agadir (Ida Ou Tanan)",
+      "credit": "Vallée d'Ammeln"
+    },
+    "teaser": "Savant pieux né au douar « Kacht » de la tribu des Ida Ou Tanan, limitrophe d'Agadir. Il mémorise le Coran sous trois transmissions, étudie à Fès et reçoit l'ijaza absolue dans la voie tijāniyya ; son maître le décrit comme « l'érudit du temps ».",
+    "bio": [
+      "Ahmed ibn Ali ibn Ibrahim ibn Muhammad ibn Ali ibn Hammu al-Tinani al-Kachti, savant pieux né vers 1310 H. (c. 1892) au douar « Kacht » de la tribu des Ida Ou Tanan, limitrophe d'Agadir. Il mémorise le Coran sous trois transmissions (Warš, Qālūn, al-Makki), étudie à Fès auprès des grands oulémas — Ibn Bannīs, Abū Šuʿayb al-Dukkālī, Muḥammad al-Ḥajwī — et reçoit l'ijaza absolue dans la voie tijāniyya de plusieurs maîtres.",
+      "De retour dans sa région, il enseigne à l'école « Alma », où son maître Sidi Muhammad ibn Abd Allah al-Tinani le décrit comme « l'érudit du temps ». Il forme de nombreux oulémas et laisse des œuvres de fiqh malékite, de aqīda et de tasawwuf.",
+      "Il meurt la nuit du 25 Ṣafar 1374 H. (c. 1956). Parmi ses œuvres, la célèbre <em>Tuḥfat al-nabīl bi-l-ṣalāt imāʾ fī Ṭāmūbīl</em> (sur la prière par signes dans les transports), ainsi que <em>Sabīl al-najāt</em> et <em>ʿIṣmat al-iʿtiqād</em>, publiées et manuscrites."
+    ],
+    "works": "Tuḥfat al-nabīl bi-l-ṣalāt imāʾ fī Ṭāmūbīl (prière par signes dans les transports) · Sabīl al-najāt · ʿIṣmat al-iʿtiqād — majmūʿa de fatwas (fiqh malékite, aqīda, tasawwuf)",
+    "facts": [
+      ["Naissance", "c. 1310 H. (c. 1892), douar Kacht, tribu Ida Ou Tanan, près d'Agadir"],
+      ["Décès", "Nuit du 25 Ṣafar 1374 H. (c. 1956)"],
+      ["Formation", "Mémorisation du Coran sous trois transmissions (Warš, Qālūn, al-Makki) · Fès"],
+      ["Ijaza", "Ijaza absolue dans la voie tijāniyya de plusieurs maîtres"],
+      ["Enseignement", "École « Alma » — « l'érudit du temps » (Sidi Muhammad ibn Abd Allah al-Tinani)"]
+    ],
+    "timeline": [
+      ["c. 1310 H.", "Naissance au douar Kacht (tribu Ida Ou Tanan)"],
+      ["Jeunesse", "Mémorisation du Coran sous trois transmissions ; études à Fès"],
+      ["Maturité", "Retour dans sa région ; enseignement à l'école « Alma » ; formation de nombreux oulémas"],
+      ["1374 H.", "Mort dans la nuit du 25 Ṣafar (c. 1956)"]
+    ],
+    "sources": [
+      {"label": "Arrabita.ma — Ahmed al-Kachti al-Tinani", "url": "https://arrabita.ma/"}
+    ]
+  },
+  {
+    "id": "sidi-ahmed",
+    "name": "Sidi Ahmed Ou Moussa Semlali",
+    "tag": "Saint fondateur de Tazeroualt",
+    "meta": "c. 1460 – c. 1563 · Bou Merouan (Idaou Semlal, Anti-Atlas)",
+    "cats": ["spirituel"],
+    "initials": "ⵙⴰ",
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Zawiya_Sidi_Ahmed_ou_Moussa_poirt%C3%A5.jpg/1280px-Zawiya_Sidi_Ahmed_ou_Moussa_poirt%C3%A5.jpg",
+      "alt": "Zaouia de Sidi Ahmed Ou Moussa",
+      "credit": "Zaouia de Sidi Ahmed Ou Moussa"
+    },
+    "teaser": "Marabout du Souss originaire de Bou Merouan (Anti-Atlas), il fonde vers 1500 une zaouia au Tazeroualt qui attire des centaines de disciples. Son arrière-petit-fils Ali Bou Dmia en fera le royaume d'Iligh (XVIIe siècle).",
+    "bio": [
+      "Sidi Ahmed Ou Moussa, aussi connu sous le nom d'Ihayden, est un célèbre saint du Sud marocain, originaire du village de Bou Merouan, dans la tribu des Idaou Semlal (Anti-Atlas). Il naît vers 1460.",
+      "Il fonde vers 1500 une zaouia au Tazeroualt qui attire des centaines de disciples. Son arrière-petit-fils, Ali Bou Dmia, en fera le royaume d'Iligh au XVIIe siècle.",
+      "Le village et la commune rurale de Sidi Ahmed Ou Moussa, dans la province de Tiznit (région Souss-Massa), se trouvent au milieu de l'Anti-Atlas, entre Tiznit et Tafraout, et portent son nom. La région célèbre chaque année un moussem à caractère religieux et commercial en son honneur, réunissant la population de la région."
+    ],
+    "works": "Fondation de la zaouia du Tazeroualt (c. 1500) · tradition spirituelle dont sortira le royaume d'Iligh (XVIIe s.)",
+    "facts": [
+      ["Naissance", "c. 1460, Bou Merouan (tribu des Idaou Semlal, Anti-Atlas)"],
+      ["Décès", "c. 1563"],
+      ["Fondation", "Zaouia du Tazeroualt (c. 1500) — centaines de disciples"],
+      ["Descendance", "Ali Bou Dmia, arrière-petit-fils — royaume d'Iligh (XVIIe s.)"],
+      ["Moussem", "Annuel, religieux et commercial, au village de Sidi Ahmed Ou Moussa (province de Tiznit)"]
+    ],
+    "timeline": [
+      ["c. 1460", "Naissance à Bou Merouan (Idaou Semlal, Anti-Atlas)"],
+      ["c. 1500", "Fondation de la zaouia du Tazeroualt ; centaines de disciples"],
+      ["c. 1563", "Mort"],
+      ["XVIIe s.", "Son arrière-petit-fils Ali Bou Dmia fonde le royaume d'Iligh"],
+      ["Aujourd'hui", "Village de Sidi Ahmed Ou Moussa (province de Tiznit) ; moussem annuel"]
+    ],
+    "sources": [
+      {"label": "Wikipédia (fr) — Sidi Ahmed Ou Moussa", "url": "https://fr.wikipedia.org/wiki/Sidi_Ahmed_Ou_Moussa"}
+    ]
+  },
+  {
+    "id": "alhiba",
+    "name": "Moulay Ahmed al-Hiba",
+    "tag": "« Sultan bleu » — résistant",
+    "meta": "c. 1876 – 1919 · proclamé sultan à Tiznit, mort à Kerdous (Anti-Atlas)",
+    "cats": ["resistance"],
+    "initials": "ⵀ",
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Uprising_of_al-Hibba_in_southern_Morocco_%281912%2C_Le_Petit_Journal%29.jpg/1280px-Uprising_of_al-Hibba_in_southern_Morocco_%281912%2C_Le_Petit_Journal%29.jpg",
+      "alt": "Soulèvement d'al-Hiba dans le Sud marocain, 1912 (Le Petit Journal)",
+      "credit": "Le Petit Journal, 1912"
+    },
+    "teaser": "Fils du cheikh Ma El Aïnin, il se proclame en 1912 « émir des moudjahidin » puis sultan à Tiznit après le traité de Fès. Avec une armée de Berbères du Souss et de nomades du Sahara, il entre à Marrakech le 14 août 1912 avant d'être vaincu à Sidi Bou Othmane.",
+    "bio": [
+      "Moulay Ahmed al-Hiba, connu sous le nom d'el-Hiba, naît vers 1876 ; il est issu de la famille des Ahl Taleb al-Mukhtar et fils de Ma el Aïnin, chef religieux maure qui entraîne un soulèvement armé contre les Français dans le sud du Maroc au début du XXe siècle.",
+      "En 1912, Moulay Abd el Hafid signe le traité de Fès, instaurant le protectorat français. El-Hiba considère que le sultan a de facto perdu son trône : il se proclame Amir Al Moujahidin (« émir des moudjahidin »), puis sultan à Tiznit. Il est reconnu par les tribus de Tiznit, Tafraout, Taroudant, de l'Anti-Atlas occidental, des régions de Drâa et de Dades, les Chtouka, les Ida ou Tanan, les Mesguina et les Haouara.",
+      "Avec une armée composée de nomades maures (Tekna, Ouled Delim, Rgueibat) et de Berbères du Souss et de l'Anti-Atlas, il entre à Marrakech le 14 août 1912 et s'y fait proclamer sultan. Le 6 septembre 1912, la bataille décisive de Sidi Bou Othmane tourne au désastre : ses forces sont vaincues par les spahis et tirailleurs sénégalais du colonel Charles Mangin, avec environ 2 000 morts. En janvier 1913, il est chassé de Taroudant par des troupes menées par Thami el Glaoui.",
+      "En 1915, un notable du pays, Addi Ou Ahmed, l'accueille à Kerdous, dans l'Anti-Atlas. En janvier 1916, il reçoit une délégation allemande cherchant des alliés contre les Français ; fin 1916, le « capitaine chleuh » Léopold Justinard est envoyé à Tiznit pour surveiller le « sultan de Kerdous », qu'une mission allemande tente de ravitailler en armes depuis un sous-marin. En 1917, il échappe de justesse au bombardement aérien de Kerdous. Il y meurt de causes naturelles le 23 juin 1919 ; son tombeau s'y trouve, et son frère Merebbi Rebbo lui succède."
+    ],
+    "works": "Résistance armée contre les protectorats français et espagnol dans le sud du Maroc et le Sahara espagnol",
+    "facts": [
+      ["Naissance", "c. 1876, famille des Ahl Taleb al-Mukhtar, fils de Ma el Aïnin"],
+      ["Décès", "23 juin 1919, Kerdous (Anti-Atlas) — tombeau sur place"],
+      ["Proclamation", "1912 : « émir des moudjahidin », puis sultan à Tiznit"],
+      ["Marrakech", "14 août 1912 : entrée avec une armée de Berbères du Souss et de nomades du Sahara"],
+      ["Défaite", "6 septembre 1912, Sidi Bou Othmane (colonel Mangin) — c. 2 000 morts"],
+      ["1916", "Mission allemande (Edgar Proebster) ; surveillance de Léopold Justinard"]
+    ],
+    "timeline": [
+      ["1912", "Traité de Fès ; proclamation comme sultan à Tiznit ; entrée à Marrakech (14 août)"],
+      ["6 sept. 1912", "Défaite de Sidi Bou Othmane (colonel Mangin)"],
+      ["Janv. 1913", "Chassé de Taroudant (Thami el Glaoui)"],
+      ["1915", "Accueilli à Kerdous par Addi Ou Ahmed"],
+      ["1916", "Délégation allemande ; mission de Léopold Justinard à Tiznit"],
+      ["1917", "Échappe au bombardement aérien de Kerdous"],
+      ["23 juin 1919", "Mort à Kerdous ; tombeau conservé"]
+    ],
+    "sources": [
+      {"label": "Wikipédia (fr) — Ahmed al-Hiba", "url": "https://fr.wikipedia.org/wiki/Ahmed_al-Hiba"}
+    ]
+  },
+  {
+    "id": "sport",
+    "name": "Les sportifs du Souss",
+    "tag": "Sport",
+    "meta": "Agadir, Taroudant, Tiznit",
+    "cats": ["sport"],
+    "initials": "ⵙ",
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Agadir_Beach_Sunset_%28Summer_time%29.jpg/1280px-Agadir_Beach_Sunset_%28Summer_time%29.jpg",
+      "alt": "Plage d'Agadir, ville natale de plusieurs sportifs",
+      "credit": "Baie d'Agadir"
+    },
+    "teaser": "Le Souss a aussi ses champions : boxeur médaillé olympique, footballeurs des plus grands clubs marocains, rappeur disque de diamant — d'Agadir à Taroudant et Tiznit.",
+    "bio": [
+      "<strong>Mohamed Assaghir</strong> (né le 27 mai 1993 à Agadir) est un boxeur marocain. Il participe aux Jeux olympiques de Tokyo 2020 (poids mi-lourds, -81 kg) ; il est ensuite médaillé d'argent aux championnats d'Afrique 2022 à Maputo (-80 kg), puis champion d'Afrique 2023 à Yaoundé (-86 kg).",
+      "<strong>Nabil Koalasse</strong> (né le 16 octobre 1986 à Taroudant) est un footballeur marocain, attaquant de l'Olympique Dcheira. <strong>Abdallah Boukhanfer</strong> (né le 1er janvier 1998 à Tiznit) est un footballeur marocain, milieu offensif du HUS Agadir : formé à l'US Amal Tiznit, il rejoint le HUS en 2021 et fait ses débuts professionnels en championnat le 12 février 2022.",
+      "<strong>Karim El Berkaoui</strong> (né le 13 novembre 1995 à Agadir) est un footballeur marocain, avant-centre. Formé au HUS Agadir (2014–2020), finaliste de la Coupe du Trône 2019, meilleur buteur de la Coupe de la confédération 2019-2020 (8 buts), il évolue ensuite à Al-Raed (Arabie saoudite) et dispute la Coupe arabe de la FIFA 2021 avec l'équipe du Maroc. <strong>Mohamed Katiba</strong> (né le 1er mars 2006 à Agadir) est un footballeur marocain, milieu de terrain formé au HUS Agadir, international des moins de 17 ans (finaliste de la CAN U17 2023, quart de finaliste de la Coupe du monde U17 2023).",
+      "<strong>Moha K</strong> (Mohamed Ait El Kaid, né le 27 février 2002 à Agadir) est un rappeur marocain. Il se fait connaître avec « Elle (pt. 1) » (2020), puis connaît un succès majeur avec « Vroum Vroum » (2021), numéro un du Top Singles en France et certifié disque de diamant ; son premier album, <em>Dernier Souffle</em>, sort en juin 2021."
+    ],
+    "works": null,
+    "facts": [
+      ["Boxe", "Mohamed Assaghir — JO Tokyo 2020, champion d'Afrique 2023 (Yaoundé, -86 kg)"],
+      ["Football", "Nabil Koalasse (Taroudant, 1986) · Abdallah Boukhanfer (Tiznit, 1998) · Karim El Berkaoui (Agadir, 1995) · Mohamed Katiba (Agadir, 2006)"],
+      ["Rap", "Moha K (Agadir, 2002) — « Vroum Vroum », disque de diamant"]
+    ],
+    "timeline": [
+      ["1986", "Naissance de Nabil Koalasse (Taroudant)"],
+      ["1993", "Naissance de Mohamed Assaghir (Agadir)"],
+      ["1995", "Naissance de Karim El Berkaoui (Agadir)"],
+      ["1998", "Naissance d'Abdallah Boukhanfer (Tiznit)"],
+      ["2002", "Naissance de Moha K (Agadir)"],
+      ["2020", "Jeux olympiques de Tokyo — Mohamed Assaghir (boxe, -81 kg)"],
+      ["2021", "« Vroum Vroum » de Moha K, n°1 du Top Singles, disque de diamant"],
+      ["2023", "Mohamed Assaghir, champion d'Afrique de boxe (Yaoundé, -86 kg)"]
+    ],
+    "sources": [
+      {"label": "Wikipédia (fr) — Mohamed Assaghir", "url": "https://fr.wikipedia.org/wiki/Mohamed_Assaghir"},
+      {"label": "Wikipédia (fr) — Karim El Berkaoui", "url": "https://fr.wikipedia.org/wiki/Karim_El_Berkaoui"},
+      {"label": "Wikipédia (fr) — Moha K", "url": "https://fr.wikipedia.org/wiki/Moha_K"}
+    ]
+  }
+]

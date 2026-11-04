@@ -34,3 +34,20 @@ Schéma d'un élément :
 - Les images doivent être des URLs Wikimedia Commons stables (hôte `upload.wikimedia.org`, largeur 1280px) ou tout média sous licence libre.
 
 Le fichier est validé automatiquement à chaque pull request (`tools/validate.py`) : JSON valide, champs requis présents, `cats` autorisés, `id` uniques, URLs d'images joignables.
+
+## `figures.json` — fiches détaillées des personnalités
+
+`content/figures.json` est la source de vérité des 14 fiches détaillées :
+biographie complète, repères chronologiques, œuvres, faits et sources.
+Il est compilé par `tools/build_figures.py` qui génère :
+
+- `personnalites/<id>.html` — une page par personnalité ;
+- les cartes de `personnalites.html` (entre les marqueurs
+  `<!-- figures:start -->` et `<!-- figures:end -->`).
+
+Après toute modification de `figures.json`, régénérez et vérifiez :
+
+```bash
+python3 tools/build_figures.py
+python3 tools/validate.py   # refuse les pages générées périmées
+```

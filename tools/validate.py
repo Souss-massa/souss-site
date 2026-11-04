@@ -45,24 +45,28 @@ class BalanceChecker(HTMLParser):
 
 
 def check_html():
-    for f in sorted(ROOT.glob("*.html")):
+    for f in sorted(ROOT.rglob("*.html")):
+        if ".git" in f.parts:
+            continue
         c = BalanceChecker()
         c.feed(f.read_text(encoding="utf-8"))
         left = [t for t in c.stack if t not in ("html", "body")]
         if left:
-            errors.append(f"{f.name}: unclosed tags {left}")
+            errors.append(f"{f.relative_to(ROOT)}: unclosed tags {left}")
 
 
 def check_links():
-    for f in sorted(ROOT.glob("*.html")):
+    for f in sorted(ROOT.rglob("*.html")):
+        if ".git" in f.parts:
+            continue
         text = f.read_text(encoding="utf-8")
         for m in re.finditer(r'(?:href|src)="([^"#]+)"', text):
             url = m.group(1)
             if url.startswith(("http://", "https://", "mailto:", "//")):
                 continue
-            target = (ROOT / url.split("#")[0].split("?")[0])
+            target = (f.parent / url.split("#")[0].split("?")[0]).resolve()
             if not target.exists():
-                errors.append(f"{f.name}: broken internal link {url}")
+                errors.append(f"{f.relative_to(ROOT)}: broken internal link {url}")
 
 
 def check_json_content():
@@ -104,10 +108,68 @@ def check_json_content():
                 errors.append(f"{where}: image unreachable: {img['src']} ({e})")
 
 
+FIGURE_REQUIRED = {"id", "name", "tag", "meta", "cats", "initials", "image",
+                   "teaser", "bio", "sources"}
+
+
+def check_figures():
+    """content/figures.json schema + generated pages up to date."""
+    sys.path.insert(0, str(Path(__file__).resolve().parent))
+    import build_figures
+
+    ffile = ROOT / "content" / "figures.json"
+    if not ffile.exists():
+        errors.append("content/figures.json missing")
+        return
+    figs = json.loads(ffile.read_text(encoding="utf-8"))
+    if not isinstance(figs, list) or not figs:
+        errors.append("content/figures.json must be a non-empty JSON array")
+        return
+    seen = set()
+    for i, fig in enumerate(figs):
+        where = f"figures.json[{i}]"
+        missing = FIGURE_REQUIRED - set(fig)
+        if missing:
+            errors.append(f"{where}: missing fields {sorted(missing)}")
+        if fig.get("id") in seen:
+            errors.append(f"{where}: duplicate id {fig.get('id')!r}")
+        seen.add(fig.get("id"))
+        bad = set(fig.get("cats", [])) - ALLOWED_CATS
+        if bad:
+            errors.append(f"{where}: unknown cats {sorted(bad)}")
+        if not fig.get("bio"):
+            errors.append(f"{where}: empty bio")
+        img = fig.get("image")
+        if isinstance(img, dict):
+            src = img.get("src", "")
+            if not src.startswith(("http://", "https://")):
+                if not (ROOT / src).exists():
+                    errors.append(f"{where}: local image missing: {src}")
+            for field in ("alt", "credit"):
+                if not img.get(field):
+                    errors.append(f"{where}: image.{field} missing")
+
+    # generated output up to date?
+    for fig in figs:
+        page = ROOT / "personnalites" / f"{fig['id']}.html"
+        want = build_figures.render_detail(fig, figs)
+        if not page.exists():
+            errors.append(f"{page.relative_to(ROOT)}: missing; run python3 tools/build_figures.py")
+        elif page.read_text(encoding="utf-8") != want:
+            errors.append(f"{page.relative_to(ROOT)}: stale; run python3 tools/build_figures.py")
+    text = (ROOT / "personnalites.html").read_text(encoding="utf-8")
+    m = re.search(r"<!-- figures:start -->(.*?)<!-- figures:end -->", text, flags=re.S)
+    if not m:
+        errors.append("personnalites.html: figures markers not found")
+    elif m.group(1) != build_figures.listing_mid(figs):
+        errors.append("personnalites.html: figures cards stale; run python3 tools/build_figures.py")
+
+
 if __name__ == "__main__":
     check_html()
     check_links()
     check_json_content()
+    check_figures()
     if errors:
         print("VALIDATION FAILED:")
         for e in errors:
